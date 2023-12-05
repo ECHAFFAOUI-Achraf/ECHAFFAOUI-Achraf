@@ -1,6 +1,11 @@
 <h1 align="center">Hello everyone 👋, I'm ECHAFFAOUI Achraf</h1>
 <h3 align="center">an Electrical Engineering Student with a knack for turning ideas into reality.</h3>
 
+<h1 align="center">
+  Hey!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 ![LnR3](https://github.com/ECHAFFAOUI-Achraf/ECHAFFAOUI-Achraf/assets/152794593/b31fb0b0-2892-4c8e-b58b-e991b33d18c1)
 
 #### Projects ####
