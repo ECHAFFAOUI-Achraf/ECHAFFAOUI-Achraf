@@ -1,10 +1,10 @@
 <h1 align="center">Hello everyone 👋, I'm ECHAFFAOUI Achraf</h1>
 <h3 align="center">an Electrical Engineering Student with a knack for turning ideas into reality.</h3>
-<img src="https://pin.it/3WfwY2K"  class="center">
-<img src="![LnR3](https://github.com/ECHAFFAOUI-Achraf/ECHAFFAOUI-Achraf/assets/152794593/9119429d-7c93-4f5d-9cc8-ef52aede31c4)">
 
-<img src="https://images.app.goo.gl/wFCaxF8iAme62FMs6" alt="arduino" width="40" height="40"/>
+![LnR3](https://github.com/ECHAFFAOUI-Achraf/ECHAFFAOUI-Achraf/assets/152794593/b31fb0b0-2892-4c8e-b58b-e991b33d18c1)
+
 #### Projects ####
+
 
 | Project Name | Description |
 | ------------ | ----------- |
