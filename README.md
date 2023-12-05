@@ -1,7 +1,16 @@
 <html>
-  <b>
-    <font size="2" color="#000000"> <center>#### Hello everyone👋 ####</center>  </font>    
-  </b>
+  <head>
+    <style>
+      h1 {text-align: center;}
+      p {text-align: center;}
+      div {text-align: center;}
+    </style>
+  </head>
+  <body>
+    <b>
+      <h1>#### Hello everyone👋 ####</h1>
+    </b>
+  </body>
 </html>
 
 I'm ECHAFFAOUI Achraf, an Electrical Engineering Student with a knack for turning ideas into reality.
