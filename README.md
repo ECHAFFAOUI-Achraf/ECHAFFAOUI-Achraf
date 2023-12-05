@@ -1,6 +1,6 @@
 <h1 align="center">Hello everyone 👋, I'm ECHAFFAOUI Achraf</h1>
 <h3 align="center">an Electrical Engineering Student with a knack for turning ideas into reality.</h3>
-<img src="‪C:\Users\ECHAFFAOUI_Achraf\Desktop\GitHub\LnR3.gif" alt="Paris" class="center">
+<img src="‪https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcircuit-board-technology-information-pattern-concept-vector-background_24283925.htm&psig=AOvVaw2TX_GthxNxTZXCY3Hp5aeg&ust=1701879173414000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDXvI_Y-IIDFQAAAAAdAAAAABAZ" alt="Paris" class="center">
 <p> <center>![LnR3](https://github.com/ECHAFFAOUI-Achraf/ECHAFFAOUI-Achraf/assets/152794593/9119429d-7c93-4f5d-9cc8-ef52aede31c4)</center> </p>
 
 
