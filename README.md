@@ -1,6 +1,7 @@
 #### Hello everyone👋 ####
 I'm ECHAFFAOUI Achraf, an Electrical Engineering Student with a knack for turning ideas into reality.
-<img src="‪https://images.app.goo.gl/Q7bETuS31XZfyvkv9">
+
+![LnR3](https://github.com/ECHAFFAOUI-Achraf/ECHAFFAOUI-Achraf/assets/152794593/9119429d-7c93-4f5d-9cc8-ef52aede31c4)
 
 #### Projects ####
 
