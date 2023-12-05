@@ -29,10 +29,9 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/achraf-echaffaoui-76b3b9208/](https://www.linkedin.com/in/achraf-echaffaoui-76b3b9208/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/achraf.echafaoui.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/achraf_echafaoui/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/achraf-echaffaoui-76b3b9208/) 
 
-</p>
 
 
 
