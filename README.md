@@ -3,7 +3,7 @@
 
 <h1 align="center">
   Hey!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://images.app.goo.gl/wFCaxF8iAme62FMs6" width="30px"/>
 </h1>
 
 ![LnR3](https://github.com/ECHAFFAOUI-Achraf/ECHAFFAOUI-Achraf/assets/152794593/b31fb0b0-2892-4c8e-b58b-e991b33d18c1)
