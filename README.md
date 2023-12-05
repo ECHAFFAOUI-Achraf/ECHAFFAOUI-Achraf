@@ -1,14 +1,9 @@
 <h1 align="center">Hello everyone 👋, I'm ECHAFFAOUI Achraf</h1>
 <h3 align="center">an Electrical Engineering Student with a knack for turning ideas into reality.</h3>
 
-<h1 align="center">
-  Hey!
-  <img src="https://github.com/ECHAFFAOUI-Achraf/ECHAFFAOUI-Achraf/assets/152794593/98315213-54d6-40ce-bbcb-45a31b2c1b99" width="30px"/>
-</h1>
-
-![LnR3](https://github.com/ECHAFFAOUI-Achraf/ECHAFFAOUI-Achraf/assets/152794593/b31fb0b0-2892-4c8e-b58b-e991b33d18c1)
-
-<image>)
+<div align="center">
+  <img src="https://github.com/ECHAFFAOUI-Achraf/ECHAFFAOUI-Achraf/assets/152794593/b31fb0b0-2892-4c8e-b58b-e991b33d18c1" width="600px" text-align="center"/>
+</div>
 
 
 #### Projects ####
