@@ -2,33 +2,22 @@
 <h3 align="center">an Electrical Engineering Student with a knack for turning ideas into reality.</h3>
 
 <div align="center">
-  <img src="https://github.com/ECHAFFAOUI-Achraf/ECHAFFAOUI-Achraf/assets/152794593/b31fb0b0-2892-4c8e-b58b-e991b33d18c1" width="600px" text-align="center"/>
+  <img src="https://github.com/ECHAFFAOUI-Achraf/ECHAFFAOUI-Achraf/assets/152794593/b31fb0b0-2892-4c8e-b58b-e991b33d18c1" width="300px" text-align="center"/>
 </div>
 
 
-#### Projects ####
-
-
-| Project Name | Description |
-| ------------ | ----------- |
-| Intelligent Gas Detection | An intelligent gas detection system using arduino and gas sensor.|
-| E-commerce Website | A full-stack e-commerce website using the languages : HTML, CSS and PHP.|
-| Mobile Robot with Manipulation Hand-Arm | A mobile robot equipped with a manipulator hand-arm for XYZ applications.|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h2> Projects : </h2>
+<ul type="square">
+  <li>
+     Intelligent Gas Detection → An intelligent gas detection system using arduino and gas sensor.
+  </li>
+  <li>
+     E-commerce Website → A full-stack e-commerce website using the languages : HTML, CSS and PHP.
+  </li>
+  <li>
+     Mobile Robot with Manipulation Hand-Arm → A mobile robot equipped with a manipulator hand-arm for XYZ applications.
+  </li>
+</ul>
 
 
 - 🔭 I’m currently working on **ADAS systems**
